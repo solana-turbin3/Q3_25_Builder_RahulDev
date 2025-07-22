@@ -7,3 +7,6 @@
 [submodule "escrow"]
 	path = escrow
 	url = https://github.com/rahuldev7583/escrow.git
+[submodule "anchor_amm"]
+	path = anchor_amm
+	url = git@github.com:rahuldev7583/anchor_amm.git
