@@ -15,7 +15,3 @@
 	url = https://github.com/rahuldev7583/nft_staking.git
 [submodule "anchor-marketplace"]
 	path = anchor-marketplace
-	url = https://github.com/rahuldev7583/anchor-marketplace.git
-[submodule "credX"]
-	path = credX
-	url = https://github.com/rahuldev7583/credX.git
