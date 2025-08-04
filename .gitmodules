@@ -13,3 +13,8 @@
 [submodule "nft_staking"]
 	path = nft_staking
 	url = https://github.com/rahuldev7583/nft_staking.git
+[submodule "anchor-marketplace"]
+	path = anchor-marketplace
+[submodule "capstone-credX"]
+	path = capstone-credX
+	url = https://github.com/rahuldev7583/capstone-credX.git
